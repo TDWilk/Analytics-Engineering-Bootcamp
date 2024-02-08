@@ -1,0 +1,7 @@
+
+target/
+dbt_packages/
+logs/
+../dbt-venv/
+../logs/
+../Analytics-Engineering-Bootcamp-Workbook/
